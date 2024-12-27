@@ -90,7 +90,7 @@
 #             duzenlenmıs_metın+=karakter
 #     return duzenlenmıs_metın
 
-# cumle= "evet ARKADASLAR bu bınıncı denemem hala CALISMAZSA BEN KRIZ GECIRICEM"
+# cumle= "DENEME cumlesı"
 
 # sonuc=metını_duzenle(cumle)
 
